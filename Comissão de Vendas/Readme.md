@@ -1,10 +1,8 @@
-# Markdown
+--------------------------------
+##     Comissão de vendas
+--------------------------------
 
------------------------
-### Comissão de vendas
------------------------
-
-###### Este é um projeto que tinha como escopo:
+#### Este é um projeto que tinha como escopo:
 
 Uma empresa de vendas de peças automotivas para oficinas cadastradas e pessoas físicas necessita de um programa a ser usado para calcular o valor a ser pago a título de comissão sobre as vendas dos últimos três meses do seu vendedor. Para isso, os seguintes dados serão informados via teclado:
 
@@ -23,9 +21,9 @@ A regra para os valores da comissão se dá da seguinte forma:
 
 - Ao final, mostre na tela os dados lidos e o valor a ser pago de comissão. 
 
-###### Autora:
+#### Autora:
 - Ilda E. Silva
 
-###### Linguagem:
+#### Linguagem:
 - C++
 
