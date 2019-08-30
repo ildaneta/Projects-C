@@ -22,7 +22,7 @@ A regra para os valores da comissão se dá da seguinte forma:
 - Ao final, mostre na tela os dados lidos e o valor a ser pago de comissão. 
 
 #### Autora:
-- Ilda E. Silva
+- [Ilda E. Silva](https://linkedin.com/in/ilda-silva-neta/)
 
 #### Linguagem:
 - C++
