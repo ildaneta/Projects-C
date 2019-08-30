@@ -28,7 +28,7 @@ Ao final mostre na tela os dados lidos e os valores calculados:
 - Total do Restaurante:
 
 #### Autora:
-- Ilda E. Silva
+- [Ilda E. Silva](https://linkedin.com/in/ilda-silva-neta/)
 
 #### Linguagem:
 - C++
