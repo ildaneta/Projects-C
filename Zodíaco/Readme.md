@@ -91,7 +91,7 @@ IV) Sair:
 - Sair do programa.
 
 #### Autora:
-- Ilda E. Silva
+- [Ilda E. Silva](https://linkedin.com/in/ilda-silva-neta/)
 
 #### Linguagem:
 - C
