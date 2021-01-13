@@ -2,7 +2,7 @@
 ## Vendas de Filiais de um Restaurante Vegetariano
 ---------------------------------------------------
 
-#### Este é um projeto que tinha como escopo:
+#### Este é um projeto com o seguinte escopo:
 
 Uma empresa de vendas de alimentação vegetariana necessita de um programa para calcular o valor de vendas dos últimos três meses para cada filial.
 
@@ -18,7 +18,7 @@ Para isso, os seguintes dados serão informados, via teclado para cada filial:
 - totalFilia (real)
 - totalEmpresa
 
-Ao final mostre na tela os dados lidos e os valores calculados:
+Ao final será exibido na tela os dados lidos e os valores calculados:
 
 - Filial:
 - Valor mês 1:
@@ -28,7 +28,7 @@ Ao final mostre na tela os dados lidos e os valores calculados:
 - Total do Restaurante:
 
 #### Autora:
-- [Ilda E. Silva](https://linkedin.com/in/ilda-silva-neta/)
+- [Ilda Neta](https://linkedin.com/in/ildaneta/)
 
 #### Linguagem:
 - C++
