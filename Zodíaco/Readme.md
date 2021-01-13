@@ -17,7 +17,7 @@ Deverá apresentar as funcionalidades:
 Essas funcionalidades são mostradas em um menu inicial que tem como última opção sair do programa.
 
 #### Autora:
-- [Ilda E. Silva](https://linkedin.com/in/ilda-silva-neta/)
+- [Ilda Neta](https://linkedin.com/in/ildaneta/)
 
 #### Linguagem:
 - C
